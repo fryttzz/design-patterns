@@ -28,6 +28,7 @@ namespace facadePattern {
             console.log('Haaah!');
         }
     }
+    
     class ComputerFacade {
         protected computer
 
