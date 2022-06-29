@@ -26,7 +26,7 @@ namespace mementoPattern {
             return new EditorMemento(this.content)
         }
 
-        public restore (memento: EditorMemento) {
+        public restore(memento: EditorMemento) {
             this.content = memento.getContent()
         }
     }
@@ -41,7 +41,7 @@ namespace mementoPattern {
     editor.type("And this is third")
 
     console.log(editor.getContent());
-    
+
     editor.restore(saved)
     editor.getContent()
 }
