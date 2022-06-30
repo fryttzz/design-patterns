@@ -2,4 +2,4 @@
 
 A language agnostic, ultra-simplified explanation to design patterns.
 
-by [https://github.com/kamranahmedse](@kamranahmedse)
+by [@kamranahmedse)](https://github.com/kamranahmedse)
